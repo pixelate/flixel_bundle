@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>command</key>
+	<string>flixel_template_parser.rb &lt; class.as</string>
+	<key>extension</key>
+	<string>as</string>
+	<key>name</key>
+	<string>FlxState</string>
+	<key>scope</key>
+	<string>source.actionscript.3</string>
+	<key>uuid</key>
+	<string>3FCAC180-B4B8-43DA-94C0-E9BBD16BBEFB</string>
+</dict>
+</plist>

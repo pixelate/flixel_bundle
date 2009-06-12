@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>name</key>
+	<string>ActionScript 3 Flixel</string>
+	<key>uuid</key>
+	<string>051B5805-53D8-4325-B3E6-58425F96CC9B</string>
+	<key>contactEmailRot13</key>
+	<string>andreas@pixelate.de</string>
+	<key>contactName</key>
+	<string>Andreas Zecher</string>
+	<key>description</key>
+	<string><a href="http://www.flixel.org/">Flixel</a> is a completely free collection of Actionscript 3 files that helps organize, automate, and optimize Flash games; an object-oriented framework that lets anyone create original and complex games with thousands of objects on screen in just a few hours, without using any of the Flash libraries.</string>
+</dict>
+</plist>
