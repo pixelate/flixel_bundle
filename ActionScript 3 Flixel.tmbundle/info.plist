@@ -11,6 +11,6 @@
 	<key>contactName</key>
 	<string>Andreas Zecher</string>
 	<key>description</key>
-	<string><a href="http://www.flixel.org/">Flixel</a> is a completely free collection of Actionscript 3 files that helps organize, automate, and optimize Flash games; an object-oriented framework that lets anyone create original and complex games with thousands of objects on screen in just a few hours, without using any of the Flash libraries.</string>
+	<string>Flixel is a completely free collection of Actionscript 3 files that helps organize, automate, and optimize Flash games; an object-oriented framework that lets anyone create original and complex games with thousands of objects on screen in just a few hours, without using any of the Flash libraries.</string>
 </dict>
 </plist>

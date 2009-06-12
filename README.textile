@@ -1,0 +1,7 @@
+h2. Flixel bundle for TextMate
+
+A simple TextMate bundle for the AS3 game library "Flixel":http://www.flixel.org/ that accompanies the ActionScript 3 bundle.
+
+Currently features:
+* Code completion for all public functions and members of all Flixel classes
+* Templates for FlxSprite and FlxState
